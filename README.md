@@ -1,8 +1,6 @@
 # ⚡ Cadence Virtuoso 6T SRAM Custom IC Design & Verification
 
-![Cadence Virtuoso](https://img.shields.io/badge/Cadence-Virtuoso-blue.svg?logo=cadence)
-![Technology Node](https://img.shields.io/badge/Node-45nm-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-LVS_Clean-success.svg)
+
 
 
 ## 📌 Project Overview
