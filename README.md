@@ -1,4 +1,4 @@
-# ⚡ Cadence Virtuoso 6T SRAM Custom IC Design & Verification
+# ⚡ Cadence Virtuoso 6T SRAM design
 
 
 
